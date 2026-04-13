@@ -9,15 +9,15 @@
 
 ---
 
-### sobre mim
+### Sobre mim
 
-estudante de **desenvolvimento de software** na Universidade Católica de Brasília.
-apaixonada por **mobile**, **web** e por transformar ideias em código.
-sempre aprendendo — de algoritmos de ordenação a apps android. 🚀
+Estudante de **Ciência da Computação** na Universidade Católica de Brasília.
+Apaixonada por **mobile**, **web** e por transformar ideias em código.
+Sempre aprendendo — de algoritmos de ordenação, sites a apps android. 🚀
 
 ---
 
-### tecnologias
+### Tecnologias
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -31,7 +31,7 @@ sempre aprendendo — de algoritmos de ordenação a apps android. 🚀
 
 ---
 
-### projetos em destaque
+### Projetos em destaque
 
 | | projeto | descrição | tech |
 |--|---------|-----------|------|
@@ -46,6 +46,6 @@ sempre aprendendo — de algoritmos de ordenação a apps android. 🚀
 
 <div align="center">
 
-obrigada pela visita! 💜
+Obrigada pela visita! 💜
 
 </div>
