@@ -1,4 +1,4 @@
-### emily
+### Emily Gomes
 > fullstack developer · universidade católica de brasília
 
 ---
