@@ -1,6 +1,6 @@
 <div align="center">
 
-## hey, eu sou a emily ✦
+## hey, eu sou a Emily ✦
 **desenvolvedora fullstack em formação · brasília, brasil**
 
 `→ construindo coisas que fazem sentido`
